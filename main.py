@@ -12,5 +12,18 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    wefgrethjjg io4eghjingg
+    grt
+    hty
+    jsonyt
+    jy6
+    jsone6tyj
+    t6
+    jt6
+    jsont6j
+    6typej6
+    json67j
+    67j
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
